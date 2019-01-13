@@ -2,3 +2,4 @@ zattoo.com
 zahs.tv
 akamaihd.net
 akamaized.net
+bitmovin.com
